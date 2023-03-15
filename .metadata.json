@@ -1,10 +1,10 @@
 [
   {
-    "package": "usmapdata",
+    "package": "usmap",
     "oncran": true
   },
   {
-    "package": "usmap",
+    "package": "usmapdata",
     "oncran": true
   }
 ]

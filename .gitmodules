@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "usmapdata"]
-	path = usmapdata
-	url = https://github.com/pdil/usmapdata
-	shallow = true
-	registered = true
 [submodule "usmap"]
 	path = usmap
 	url = https://github.com/pdil/usmap
+	shallow = true
+	registered = true
+[submodule "usmapdata"]
+	path = usmapdata
+	url = https://github.com/pdil/usmapdata
 	shallow = true
 	registered = true
